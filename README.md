@@ -1,4 +1,7 @@
 # Sentiment Classification Amazon-review
+
+<b> Final_Amazon_VideoGames_Reviews_NLP file contains all data cleaning and data preprocessing </b>
+
 <ul><li>
 In this project I have applied NLP techniques to classify sentiment of review. I went through all process of building a NLP engine which includes <b>data cleaning, data mining, data wrangling and building a model</b>. I have used three approaches to solve this problem.</li><br><li>
 First I used all algorithms individually and explored their performance. Logistic Regression beat almost all algorithms by far distance.</li><br><li>
