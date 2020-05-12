@@ -14,4 +14,4 @@ For getting more accuracy you have to use deep learning models because in ML mod
 
 # Text-Generation
 
-Key-Learing-Points: WEB SCRAPING, Language Modelling, NLP, Deep Learning
+Key-Learing-Points: Web Scraping, Language Modelling, NLP, Deep Learning
