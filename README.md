@@ -13,6 +13,7 @@ For getting more accuracy you have to use deep learning models because in Machin
 </li></ul>
 
 Logistic Model's output:
+</br></br>
 ![alt text](https://github.com/Jenil245/NLP-Python/blob/master/Sentiment-classification_Amazon-review/logistic_output.PNG)
 
 
