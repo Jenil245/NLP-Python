@@ -15,3 +15,13 @@ For getting more accuracy you have to use deep learning models because in Machin
 # Text-Generation
 
 Key-Learing-Points: Web Scraping, Language Modelling, NLP, Deep Learning
+</br></br>
+Here, I have created two models.
+</br></br>
+First one is n-gram model means it takes whole sequence as input for prediction of word, whereas second one is 4-gram model means it takes only four previous words as input for prediction of next word!!
+</br></br>
+Both model give fairly good outputs.
+</br></br>
+![alt text](https://github.com/Jenil245/NLP-Python/blob/master/Text-Generation_from_Wikipedia/1.PNG)
+
+![alt text](https://github.com/Jenil245/NLP-Python/blob/master/Text-Generation_from_Wikipedia/2.PNG)
