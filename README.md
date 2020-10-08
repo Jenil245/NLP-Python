@@ -12,6 +12,12 @@ So then I created Deep Learning model which used Word Embedding and LSTM layers.
 For getting more accuracy you have to use deep learning models because in Machine Learning models, CoW(count of words) and TFIDF does not present much values, it basically predictes sentiment on count of words that are present in review. But that is still a good choice for low resources.<br>
 </li></ul>
 
+Logistic Model's output:
+![alt text](https://github.com/Jenil245/NLP-Python/blob/master/Sentiment-classification_Amazon-review/logistic_output.PNG)
+
+
+</br></br></br>
+
 # Text-Generation
 
 Key-Learing-Points: Web Scraping, Language Modelling, NLP, Deep Learning
